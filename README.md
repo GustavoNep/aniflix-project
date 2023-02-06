@@ -20,5 +20,7 @@ For the style, several functionalities that tailwind provides were used, making 
 
 https://media.giphy.com/media/S3h48D6Vy7fZpIJwF4/giphy.gif
 
+![](https://media.giphy.com/media/S3h48D6Vy7fZpIJwF4/giphy.gif)
+
 
 
