@@ -18,7 +18,6 @@ For the style, several functionalities that tailwind provides were used, making 
   Now You can enjoy the Aniflix and have your favorites animes from the season organized :) 
   
 
-
-
+![](https://giphy.com/gifs/NjgJ8FeDUMdu4KqRqa)
 
 
