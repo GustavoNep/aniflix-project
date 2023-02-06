@@ -15,7 +15,7 @@ A Firebase database was used for the backend where I could store user data as we
 
 For the style, several functionalities that tailwind provides were used, making the code much cleaner and more functional to work with.
 
-  Now You can enjou the Aniflix and have your favorites animes from the season organized :) 
+  Now You can enjoy the Aniflix and have your favorites animes from the season organized :) 
 
 
 
