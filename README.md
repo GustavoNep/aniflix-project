@@ -1,6 +1,7 @@
 # Aniflix
 
 In this project I used the three react hooks useState,useEffect,useContext.
+Totally Responsive
 
 ## About
 
